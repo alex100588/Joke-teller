@@ -47,9 +47,9 @@ button:disabled{
     filter: brightness(30%);
 }
 
-/* #audio{
+#audio{
     display: none;
-} */
+}
 
 @media screen and (max-width:1000px){
     .container{
